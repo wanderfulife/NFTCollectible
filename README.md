@@ -1,1 +1,1 @@
-# NFTcollectible
+# NFTCollectible
