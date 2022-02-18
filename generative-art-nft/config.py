@@ -75,6 +75,6 @@ CONFIG = [
         'name': 'wristband',
         'directory': 'Wristband',
         'required': False,
-        'rarity_weights': None,
+        'rarity_weights': [100,1,70,20]
     },
 ]
